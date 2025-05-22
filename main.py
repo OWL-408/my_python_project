@@ -1,5 +1,5 @@
 def greet(name):
-    return f"Hello, {name}! Welcome to your first Git project."
+    return f"Hello, {name}! Welcome to your first Git project. This is an updated message." # 変更点
 
 if __name__ == "__main__":
     user_name = input("Please enter your name: ")
